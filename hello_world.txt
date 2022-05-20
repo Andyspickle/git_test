@@ -1,1 +1,2 @@
 testing this message
+This is a new VSCode commit
